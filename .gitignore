@@ -1,3 +1,6 @@
 data/*
+<<<<<<< HEAD
 bsds_ml/*
+=======
+>>>>>>> 5188e07cd5bf8d2a4ea7c4b617730e972a5bd1d6
 data.zip

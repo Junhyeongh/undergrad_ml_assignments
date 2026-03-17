@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Machine Learning Container
 
 A Linux container for data science 
@@ -92,3 +93,7 @@ A Linux container for data science
 | **conda** | Packages + Python | Data science & ML stacks            | `conda install numpy`                 | Handles non-Python deps |
 |           |                   |                                     | `conda create -n new_env`             | Creates environment     |
 |           |                   |                                     | `conda activate new_env`              | Activates environment   |
+=======
+# undergrad_ml_assignments
+Assignments for undergraduate machine learning
+>>>>>>> 5188e07cd5bf8d2a4ea7c4b617730e972a5bd1d6
